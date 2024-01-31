@@ -1,0 +1,13 @@
+{
+    "itemName": "pat_pharaohscurse_soup",
+    "rarity": "Legendary",
+    "price": 500,
+    "maxStack": 1,
+    "shortdescription": "soup that gives you the pharaoh's curse",
+    "description": "A bowl of soup that gives you the pharaoh's curse",
+    "inventoryIcon": "soup.png",
+    "category": "preparedFood",
+    "tooltipKind": "food",
+    "emitters": [ "drinking" ],
+    "effects": [ [ "pat_pharaohscurse" ] ]
+}

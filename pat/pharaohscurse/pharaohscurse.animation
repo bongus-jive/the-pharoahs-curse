@@ -1,0 +1,50 @@
+{
+    "sounds": {
+        "sand": [
+            "/sfx/blocks/sand_fall1.ogg",
+            "/sfx/blocks/sand_fall2.ogg",
+            "/sfx/blocks/sand_fall3.ogg",
+            "/sfx/blocks/sand_fall4.ogg",
+            "/sfx/blocks/sand_fall5.ogg",
+            "/sfx/blocks/sand_fall6.ogg",
+            "/sfx/blocks/sand_fall7.ogg",
+            "/sfx/blocks/sand_fall8.ogg",
+            "/sfx/blocks/sand_fall9.ogg"
+        ],
+        "sandstorm": [
+            "/pat/pharaohscurse/sfx/sandstorm_1.ogg",
+            "/pat/pharaohscurse/sfx/sandstorm_2.ogg",
+            "/pat/pharaohscurse/sfx/sandstorm_3.ogg",
+            "/pat/pharaohscurse/sfx/sandstorm_4.ogg",
+            "/pat/pharaohscurse/sfx/sandstorm_5.ogg"
+        ]
+    },
+    "particleEmitters": {
+        "sand": {
+            "particles": [
+                {
+                    "particle": {
+                        "type": "textured",
+                        "image": "/particles/sandcloud/1.png",
+                        "velocity": [ 0, -5 ],
+                        "approach": [ 15, 15 ],
+                        "timeToLive": 20,
+                        "collidesForeground": true,
+                        "collidesLiquid": true,
+                        "destructionAction": "fade",
+                        "destructionTime": 10,
+                        "ignoreWind": false,
+                        "size": 1.5,
+                        "variance": {
+                            "size": 1,
+                            "angularVelocity": 40,
+                            "position": [ 6, 6 ],
+                            "velocity": [ 2, 2 ],
+                            "fade": 0.5
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
