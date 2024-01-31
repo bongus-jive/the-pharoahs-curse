@@ -1,8 +1,8 @@
 {
-  "version" : "2",
+  "version" : "v3",
   "tags" : "Character Improvements|Food and Farming",
   "author" : "patman",
-  "description" : "adds the soup that gives you the pharaoh's curse\n\nmake at cooking table\n\nyou're welcome\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://media.discordapp.net/attachments/422097510417301519/967529620347949116/do_this.gif[/img]",
+  "description" : "adds the soup that gives you the pharaoh's curse\n\nmake at cooking table\n\nyou're welcome\n\ngithub: https://github.com/bongus-jive/the-pharoahs-curse\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://media.discordapp.net/attachments/422097510417301519/967529620347949116/do_this.gif[/img]",
   "name" : "pat_pharaohscurse",
   "friendlyName" : "the pharaoh's curse",
   "steamContentId" : "3022377067",
